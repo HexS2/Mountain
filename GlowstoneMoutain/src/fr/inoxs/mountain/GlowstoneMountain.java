@@ -13,7 +13,9 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 import javax.swing.*;
 import java.util.HashMap;
-
+/*
+    @Author : CTRL
+ */
 public class GlowstoneMountain extends JavaPlugin implements CommandExecutor {
     public static HashMap<Integer, Mountain> list = new HashMap<Integer, Mountain>();
     private Utils utils;

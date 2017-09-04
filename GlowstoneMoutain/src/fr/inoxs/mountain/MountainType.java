@@ -1,5 +1,7 @@
 package fr.inoxs.mountain;
-
+/*
+    @Author : CTRL
+ */
 public enum MountainType {
 
     GLOWSTONE,ORE;

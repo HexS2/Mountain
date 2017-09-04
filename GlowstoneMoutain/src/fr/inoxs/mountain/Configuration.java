@@ -3,7 +3,9 @@ package fr.inoxs.mountain;
 import org.bukkit.configuration.file.FileConfiguration;
 
 public class Configuration {
-
+/*
+    @Author : CTRL
+ */
     private GlowstoneMountain mountain;
 
     public Configuration(GlowstoneMountain mountain) {

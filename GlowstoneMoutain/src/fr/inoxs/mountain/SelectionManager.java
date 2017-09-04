@@ -15,7 +15,9 @@ import org.bukkit.event.player.PlayerInteractEvent;
 
 import java.util.UUID;
 import java.util.concurrent.ConcurrentHashMap;
-
+/*
+    @Author : CTRL
+ */
 public class SelectionManager implements Listener {
 
     private static ConcurrentHashMap<UUID, Selection> selections = new ConcurrentHashMap<>();

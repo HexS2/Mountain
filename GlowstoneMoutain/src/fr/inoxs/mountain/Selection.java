@@ -4,7 +4,9 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.Setter;
 import org.bukkit.Location;
-
+/*
+    @Author : CTRL
+ */
 @Data
 @AllArgsConstructor
 public class Selection {

@@ -1,0 +1,6 @@
+main: fr.inoxs.mountain.GlowstoneMountain
+version: 2.0.2
+author: iNoXs
+name: GlowstoneMountain
+commands:
+    mountain:

@@ -1,0 +1,3 @@
+MOUNTAIN_SPAWN_MESSAGE: '§fThe %type mountain §c%name §fwas reloaded ! %loc'
+FORCESTART_MESSAGE: '§fThe %type mountain §c%name §fwas reloaded ! %loc'
+INFO_MESSAGE: '&aThe %type mountain &b%name &a spawn every &b%delay &a minutes &b(%loc)'

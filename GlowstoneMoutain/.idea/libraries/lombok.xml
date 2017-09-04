@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lombok">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Pack APIs/lombok.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Pack APIs/spigot-1.9.4-R0.1-SNAPSHOT-latest.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Pack APIs/spigot-1.9.4-R0.1-SNAPSHOT-latest.jar!/" />
+    </SOURCES>
+  </library>
+</component>
